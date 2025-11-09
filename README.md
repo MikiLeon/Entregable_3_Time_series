@@ -41,7 +41,7 @@ Instalación con pip:
 
 ```python
 git clone https://github.com/MikiLeon/Entregable2_Churn.git
-cd Entregable2_Churn
+cd Entregable3_Time_series
 python -m venv .venv
 source .venv/bin/activate   # Linux/Mac
 .venv\Scripts\activate      # Windows
@@ -67,3 +67,4 @@ Consulta el archivo LICENSE para más detalles o visita la [descripción oficial
   Miguel Ángel García León
   
   📧 miiguelleon@gmail.com
+
